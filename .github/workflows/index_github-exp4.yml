@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'github-exp4'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5AFBCFBFCA874F9EBDDB849E2D58E9F8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_79A1FC56120548B8A2C418ADB859B912 }}
           package: .
